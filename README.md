@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a hobbyist developer. Doing random projects (2D/3D graphics apps, FPGA, Arduino/ESP32, Neural nets), or even small tools that may help you.
+I'm a hobbyist developer. Doing random projects (2D/3D graphics apps, Neural nets, Arduino/ESP32, FPGA), or even small tools that may help you.
 
 Always open for new opportunities :sunglasses:
 
