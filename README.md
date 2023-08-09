@@ -3,6 +3,8 @@ I'm a software developer. Doing random projects (2D/3D graphics apps, Neural net
 
 Always open for new opportunities :sunglasses:
 
+If you can offer me a remote job or relocation, please let me know :rocket:
+
 <!--
 **fel88/fel88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
