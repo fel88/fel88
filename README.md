@@ -19,9 +19,9 @@ Always open for new opportunities :sunglasses:
 
 
 **Ports (JS→C#):**
-1. [DeepNestPort](https://github.com/fel88/DeepNestPort)
-2. [Dagre.NET](https://github.com/fel88/Dagre.NET)
-3. [Springy.NET](https://github.com/fel88/Springy.NET)
+1. [DeepNestPort](https://github.com/fel88/DeepNestPort) - nesting library for laser cutting
+2. [Dagre.NET](https://github.com/fel88/Dagre.NET) - directed acyclic graph layout library [nuget](https://www.nuget.org/packages/Dagre.NET)
+3. [Springy.NET](https://github.com/fel88/Springy.NET) - force directed graph layout library [nuget](https://www.nuget.org/packages/Springy.NET)
 4. [ConvNetPort](https://github.com/fel88/ConvNetPort)
 
 **Arduino projects:**
@@ -33,7 +33,12 @@ Always open for new opportunities :sunglasses:
 1. [HDLProc](https://github.com/fel88/HDLProc) - simple VHDL processor
 2. [HDLCodeGen](https://github.com/fel88/HDLCodeGen) - code compiler for HDLProc
 
-If you can offer me a remote job or relocation, please let me know :rocket:
+**Others**:
+1. [AutoDialog](https://www.nuget.org/packages/AutoDialog) - dialog generation library [nuget](https://www.nuget.org/packages/AutoDialog)
+   
+## 
+
+ :rocket: If you can offer me a remote job or relocation, please let me know :rocket:
 
 <!--
 **fel88/fel88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
