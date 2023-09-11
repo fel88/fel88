@@ -14,7 +14,7 @@ Always open for new opportunities :sunglasses:
 **Deep learning projects:**
 1. [Dendrite](https://github.com/fel88/Dendrite) - ONNX visualizer/editor, inference pipeline graph editor   
     <sub>  [Ready environments](https://github.com/fel88/Dendrite.Environments) for Dendrite   </sub>
-2. [Retina](https://github.com/fel88/SOBA) - debug tool for faces detection/recognition
+2. [Retina](https://github.com/fel88/Retina) - debug tool for faces detection/recognition
 3. [Soba](https://github.com/fel88/SOBA) - simple object annotator
 4. [Xnor](https://github.com/fel88/Xnor) - debug tool for XNOR networks
 
