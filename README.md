@@ -10,7 +10,8 @@ Always open for new opportunities :sunglasses:
 2. [GeomPad](https://github.com/fel88/GeomPad) - geometric 2D/3D debug tool
 3. [OpenCAD](https://github.com/fel88/OpenCAD) - simple CAD (using OpenCASCADE)
 4. [LiteCAD](https://github.com/fel88/LiteCAD) - simple CAD (zero dependency)
-
+5. [DxfPad](https://github.com/fel88/DxfPad) - simple CSP solver for 2D drafts (export to dxf)
+   
 **Deep learning projects:**
 1. [Dendrite](https://github.com/fel88/Dendrite) - ONNX visualizer/editor, inference pipeline graph editor   
     <sub>  [Ready environments](https://github.com/fel88/Dendrite.Environments) for Dendrite   </sub>
