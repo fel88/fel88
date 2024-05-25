@@ -31,8 +31,10 @@ Always open for new opportunities :sunglasses:
 2. [ArduinoDisplay](https://github.com/fel88/ArduinoDisplay) - customizable touch display
 3. [ArduinoVoltmeter](https://github.com/fel88/ArduinoVoltmeter) - USB voltmeter plotter/logger   
 
-**3D graphics:**
+**3D graphics / OpenGL:**
 1. [OpenGLSamples](https://github.com/fel88/OpenGLSamples) - some of the LearnOpenGL samples in C# (https://github.com/JoeyDeVries/LearnOpenGL)
+2. [FxEngine](https://github.com/fel88/FxEngine) - 3D game engine / assets editor (FxStudio) (Collada/obj)
+3. [FxGUI](https://github.com/fel88/FxGUI) - OpenGL WYSIWYG GUI editor (SDF fonts rendering)
 
 **FPGA projects:**
 1. [HDLProc](https://github.com/fel88/HDLProc) - simple VHDL processor
