@@ -34,7 +34,8 @@ Always open for new opportunities :sunglasses:
 **3D graphics / OpenGL:**
 1. [OpenGLSamples](https://github.com/fel88/OpenGLSamples) - some of the LearnOpenGL samples in C# (https://github.com/JoeyDeVries/LearnOpenGL)
 2. [FxEngine](https://github.com/fel88/FxEngine) - 3D game engine / assets editor (FxStudio) (Collada/obj)
-3. [FxGUI](https://github.com/fel88/FxGUI) - OpenGL WYSIWYG GUI editor (SDF fonts rendering)
+3. [FxGUI](https://github.com/fel88/FxGUI) - OpenGL WYSIWYG GUI editor (SDF (Signed Distance Field) fonts rendering)
+4. [CloudPad](https://github.com/fel88/CloudPad) - point cloud tool (PLY format support, RANSAC geometry search)
 
 **FPGA projects:**
 1. [HDLProc](https://github.com/fel88/HDLProc) - simple VHDL processor
