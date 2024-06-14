@@ -40,6 +40,9 @@ Always open for new opportunities :sunglasses:
 **FPGA projects:**
 1. [HDLProc](https://github.com/fel88/HDLProc) - simple VHDL processor
 2. [HDLCodeGen](https://github.com/fel88/HDLCodeGen) - code compiler for HDLProc
+   
+**Telegram bots:**
+1. [Gandalf](https://github.com/fel88/Gandalf) - remote git patch / build / create PR / QR scanner
 
 **Others**:
 1. [AutoDialog](https://www.nuget.org/packages/AutoDialog) - dialog generation library [nuget](https://www.nuget.org/packages/AutoDialog)
