@@ -1,6 +1,12 @@
 ## Hi there, my name is Felix 👋
 I'm a software developer. Doing random projects (2D/3D graphics apps, Neural nets, Arduino/ESP32, FPGA), or even small tools that may help you.
 
+
+
+<img src="https://github.com/fel88/fel88/assets/15663687/d47cf126-8b1d-48ff-9e12-fc4de47af611"  width="100"  />
+
+
+
 Always open for new opportunities :sunglasses:
 
 ## My projects
@@ -76,3 +82,24 @@ Here are some ideas to get you started:
 -->
 
 ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/fel88) ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/fel88)
+
+<!--
+## 
+
+<img src="https://github.com/fel88/fel88/assets/15663687/4089ac96-bd94-4c9d-9e1a-1f8e7fee34c8"  width="50"  />
+<img src="https://github.com/fel88/fel88/assets/15663687/0c4dc96b-12d0-4da3-a0ed-13ee2d2028ab"  width="50"  />
+
+<img src="https://github.com/fel88/fel88/assets/15663687/d1725b8b-eed7-428f-829f-716e826ed840"  width="50"  />
+<img src="https://github.com/fel88/fel88/assets/15663687/c2d2b5c6-04e0-4b7f-afa9-7080a29d12f3"  width="50"  />
+<img src="https://github.com/fel88/fel88/assets/15663687/8293f50f-e2cc-4fcc-97dd-c1d24011fe3d"  width="50"  />
+<img src="https://github.com/fel88/fel88/assets/15663687/d2f9306c-a9c7-4bff-8aea-fb3f543d153e"  width="50"  />
+
+<img src="https://github.com/fel88/fel88/assets/15663687/e814f7a7-4002-40d1-a3d6-2c338e5f4a74"  width="50"  />
+<img src="https://github.com/fel88/fel88/assets/15663687/a6ffae29-3098-454b-9509-ca7b9b7e546a"  width="50"  />
+
+
+-->
+
+
+
+
