@@ -1,10 +1,19 @@
 ## Hi there, my name is Felix 👋
-I'm a software developer. Doing random projects (2D/3D graphics apps, Neural nets, Arduino/ESP32, FPGA), or even small tools that may help you.
+I'm a software developer 🐧.  <br/>
+<br/>
+I like coding random projects 🐝 (2D/3D graphics apps, Neural nets, Arduino/ESP32, FPGA) for my own pleasure.🌞 <br/> 
+I would be glad if some of them would be useful to you.🙏  <br/>
+I learn Japanese in my free time 🇯🇵 <br/>
+I like playing Doom II, Caesar III and Ufo XCOM :hurtrealbad:
 
-
+I've discovered some open-source benefits❤️: <br/>
+➕ You can code or not , in both ways is okay  <br/>
+➕ You can write programs as dirty as you want <br/>
+➕  Refactor later anytime as much as you want <br/>
+➕ No pressure, just pleasure (no deadlines, no colleagues) <br/>
+ 
 
 <img src="https://github.com/fel88/fel88/assets/15663687/d47cf126-8b1d-48ff-9e12-fc4de47af611"  width="100"  />
-
 
 
 Always open for new opportunities :sunglasses:
