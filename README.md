@@ -27,6 +27,7 @@ Always open for new opportunities :sunglasses:
 3. [OpenCAD](https://github.com/fel88/OpenCAD) - simple CAD (using OpenCASCADE)
 4. [LiteCAD](https://github.com/fel88/LiteCAD) - simple CAD (zero dependency)
 5. [DxfPad](https://github.com/fel88/DxfPad) - simple CSP solver for 2D drafts (export to dxf)
+6. [OCCPort](https://github.com/fel88/OCCPort) - my attemp to re-implement OpenCasade in C# 
    
 **Deep learning projects:**
 1. [Dendrite](https://github.com/fel88/Dendrite) - ONNX visualizer/editor, inference pipeline graph editor   
@@ -49,7 +50,7 @@ Always open for new opportunities :sunglasses:
 
 **3D graphics / OpenGL:**
 1. [OpenGLSamples](https://github.com/fel88/OpenGLSamples) - some of the LearnOpenGL samples in C# (https://github.com/JoeyDeVries/LearnOpenGL)
-2. [FxEngine](https://github.com/fel88/FxEngine) - 3D game engine / assets editor (FxStudio) (Collada/obj)
+2. [FxEngine](https://github.com/fel88/FxEngine) - 3D game engine / assets editor (FxStudio) (Collada/obj)  [nuget](https://www.nuget.org/packages/Dagre.NET)
 3. [FxGUI](https://github.com/fel88/FxGUI) - OpenGL WYSIWYG GUI editor (SDF (Signed Distance Field) fonts rendering)
 4. [CloudPad](https://github.com/fel88/CloudPad) - point cloud tool (PLY format support, RANSAC geometry search)
 
