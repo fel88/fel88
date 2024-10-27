@@ -1,5 +1,5 @@
 ## Hi there, my name is Felix 👋
-I'm a software developer 🐧.  <br/>
+I'm a software engineer 🐧.  <br/>
 <br/>
 I like coding random projects 🐝 (2D/3D graphics apps, Neural nets, Arduino/ESP32, FPGA) for my own pleasure.🌞 <br/> 
 I would be glad if some of them would be useful to you.🙏  <br/>
