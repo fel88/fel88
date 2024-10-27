@@ -7,9 +7,10 @@ I learn Japanese in my free time 🇯🇵 <br/>
 I like playing Doom II, Caesar III and Ufo XCOM :hurtrealbad:
 
 I've discovered some open-source benefits❤️: <br/>
+➕ Feel free <br/>
 ➕ You can code or not , in both ways is okay  <br/>
-➕ You can write programs as dirty as you want <br/>
-➕  Refactor later anytime as much as you want <br/>
+➕ You can write programs as dirty/clean as you want <br/>
+➕ Refactor later anytime as much as you want <br/>
 ➕ No pressure, just pleasure (no deadlines, no colleagues) <br/>
  
 
