@@ -4,7 +4,7 @@ I'm a software developer 🐧.  <br/>
 I like coding random projects 🐝 (2D/3D graphics apps, Neural nets, Arduino/ESP32, FPGA) for my own pleasure.🌞 <br/> 
 I would be glad if some of them would be useful to you.🙏  <br/>
 I learn Japanese in my free time 🇯🇵 <br/>
-I like playing Doom II, Caesar III and Ufo XCOM :hurtrealbad:
+I like playing Doom II, Caesar III and Ufo XCOM :video_game:
 
 I've discovered some open-source benefits❤️: <br/>
 ➕ Feel free: discover new approaches without any constraints <br/>
