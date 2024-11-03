@@ -10,7 +10,7 @@ I've discovered some open-source benefits❤️: <br/>
 ➕ Feel free: discover new approaches without any constraints <br/>
 ➕ You can code or not , both ways are okay  <br/>
 ➕ You can write programs as dirty/clean as you want <br/>
-➕ Refactor later anytime as much as you want <br/>
+➕ Refactor anytime later as much as you want <br/>
 ➕ No pressure, just pleasure (no deadlines, no colleagues, no rules) <br/>
  
 
