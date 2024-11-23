@@ -62,7 +62,7 @@ Always open for new opportunities :sunglasses:
 1. [Gandalf](https://github.com/fel88/Gandalf) - remote git patch / build / create PR / QR scanner
 
 **Others**:
-1. [AutoDialog](https://www.nuget.org/packages/AutoDialog) - dialog generation library [nuget](https://www.nuget.org/packages/AutoDialog)
+1. [AutoDialog](https://github.com/fel88/AutoDialog) - dialog generation library [nuget](https://www.nuget.org/packages/AutoDialog)
 2. [Scanner](https://github.com/fel88/Scanner) - hard disk space usage viewer
 3. [TeamOn](https://github.com/fel88/TeamOn) - LAN chat/remote desktop
 4. [VBoxClient](https://github.com/fel88/VboxClient) - VirtualBox client
