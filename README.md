@@ -44,9 +44,10 @@ Always open for new opportunities :sunglasses:
 4. [ConvNetPort](https://github.com/fel88/ConvNetPort) - port of ConvNetJs (https://github.com/karpathy/convnetjs)
 
 **Arduino projects:**
-1. [GFXFontTool](https://github.com/fel88/GFXFontTool) - gfx font generator
-2. [ArduinoDisplay](https://github.com/fel88/ArduinoDisplay) - customizable touch display
-3. [ArduinoVoltmeter](https://github.com/fel88/ArduinoVoltmeter) - USB voltmeter plotter/logger   
+1. [TurtleBook](https://github.com/fel88/TurleBook) - solar powered, zero buttons, fully autonomous and water proof e-book reader
+2. [GFXFontTool](https://github.com/fel88/GFXFontTool) - gfx font generator
+3. [ArduinoDisplay](https://github.com/fel88/ArduinoDisplay) - customizable touch display
+4. [ArduinoVoltmeter](https://github.com/fel88/ArduinoVoltmeter) - USB voltmeter plotter/logger   
 
 **3D graphics / OpenGL:**
 1. [OpenGLSamples](https://github.com/fel88/OpenGLSamples) - some of the LearnOpenGL samples in C# (https://github.com/JoeyDeVries/LearnOpenGL)
