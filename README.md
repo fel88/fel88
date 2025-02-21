@@ -44,7 +44,7 @@ Always open for new opportunities :sunglasses:
 4. [ConvNetPort](https://github.com/fel88/ConvNetPort) - port of ConvNetJs (https://github.com/karpathy/convnetjs)
 
 **Arduino projects:**
-1. [TurtleBook](https://github.com/fel88/TurleBook) - solar powered, zero buttons, fully autonomous and water proof e-book reader
+1. [TurtleBook](https://github.com/fel88/TurtleBook) - solar powered, zero buttons, fully autonomous and water proof e-book reader
 2. [GFXFontTool](https://github.com/fel88/GFXFontTool) - gfx font generator
 3. [ArduinoDisplay](https://github.com/fel88/ArduinoDisplay) - customizable touch display
 4. [ArduinoVoltmeter](https://github.com/fel88/ArduinoVoltmeter) - USB voltmeter plotter/logger   
