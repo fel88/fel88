@@ -62,6 +62,11 @@ Always open for new opportunities :sunglasses:
 **Telegram bots:**
 1. [Gandalf](https://github.com/fel88/Gandalf) - remote git patch / build / create PR / QR scanner
 
+**Servers:**
+1. [HttpSandbox](https://github.com/fel88/HttpSandbox) - mock HTTP server 
+2. [OpcServer](https://github.com/fel88/OpcServer) - OPC server. Mock hardware devices
+
+
 **Others**:
 1. [AutoDialog](https://github.com/fel88/AutoDialog) - dialog generation library [nuget](https://www.nuget.org/packages/AutoDialog)
 2. [Scanner](https://github.com/fel88/Scanner) - hard disk space usage viewer
