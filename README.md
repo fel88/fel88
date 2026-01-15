@@ -6,7 +6,7 @@ I will be glad if any of them are useful to you🙏  <br/>
 I learn Japanese in my free time 🇯🇵 <br/>
 I like playing HOMM III, Doom II, Caesar III, Ufo XCOM, Mass Effect, etc :video_game:
 
-I've discovered some open-source benefits❤️: <br/>
+I've discovered some benefits of open-source ❤️: <br/>
 ➕ Feel free: discover new approaches without any constraints <br/>
 ➕ You can code or not , both ways are okay  <br/>
 ➕ You can write programs as dirty/clean as you want <br/>
