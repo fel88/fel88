@@ -1,5 +1,5 @@
 ## Hi there, my name is Felix 👋
-I'm a software engineer 🐧.  <br/>
+I'm a software engineer 🐧.  <br/> 
 <br/>
 I like coding random projects 🐝 (2D/3D graphics apps, Neural nets, Arduino/ESP32, FPGA) for my own pleasure🌞 <br/> 
 I will be glad if any of them are useful to you🙏  <br/>
@@ -67,6 +67,10 @@ Always open for new opportunities :sunglasses:
 **Servers:**
 1. [HttpSandbox](https://github.com/fel88/HttpSandbox) - mock HTTP server 
 2. [OpcServer](https://github.com/fel88/OpcServer) - OPC server. Mock hardware devices
+
+**PCBs:**
+1. [PanelDriver](https://github.com/fel88/PanelDriver) - Arduino Mega 2560 Embed + Waveshare e-ink universal shield 
+2. [TPS63020](https://github.com/fel88/TPS63020) - clone of TPS63020 buck-boost converter
 
 
 **Others**:
