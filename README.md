@@ -27,7 +27,7 @@ Always open for new opportunities :sunglasses:
 3. [OpenCAD](https://github.com/fel88/OpenCAD) - simple CAD (using OpenCASCADE)
 4. [LiteCAD](https://github.com/fel88/LiteCAD) - simple CAD (zero dependency)
 5. [DxfPad](https://github.com/fel88/DxfPad) - simple CSP solver for 2D drafts (export to dxf)
-6. [OCCPort](https://github.com/fel88/OCCPort) - my attemp to re-implement OpenCasade in C#
+6. [OCCPort](https://github.com/fel88/OCCPort) - my attemp to re-implement OpenCascade in C#
 7. [OcctImguiPort](https://github.com/fel88/OcctImguiPort) - Occ + ImGui + custom GL render
 8. [OCCTProxy](https://github.com/fel88/OCCTProxy) - OpenCascade wrapper for .net [nuget](https://www.nuget.org/packages/OCCTProxy)
 9. [dxfViewer](https://github.com/fel88/dxfViewer) - OpenGL dxf viewer 
