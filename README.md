@@ -4,7 +4,7 @@ I'm a software engineer 🐧.  <br/>
 I like coding random projects 🐝 (2D/3D graphics apps, Neural nets, Arduino/ESP32, FPGA) for my own pleasure🌞 <br/> 
 I will be glad if any of them are useful to you🙏  <br/>
 I learn Japanese in my free time 🇯🇵 <br/>
-I like playing HOMM III, Doom II, Caesar III, Ufo XCOM, Mass Effect, etc :video_game:
+I like playing HOMM III, Doom II, Caesar III, Ufo XCOM, Mass Effect, Dune 2000, RA2, etc :video_game:
 
 I've discovered some benefits of open-source ❤️: <br/>
 ➕ Feel free: discover new approaches without any constraints <br/>
